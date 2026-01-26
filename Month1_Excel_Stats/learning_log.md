@@ -6,3 +6,10 @@ Day 1:
 - Status: Completed
 - Confidence level: 9/10
 - Doubts: none
+
+Day 2:
+
+- Topic: Data Types & Standard Deviation
+- Status: Completed
+- Confidence level: 9.5/10
+- Doubts: none
