@@ -29,3 +29,50 @@ Example: Marks of students
   Very different values → high SD
 
   So SD shows how regular your routine is.
+
+
+# Day 2 – Data Types and Standard Deviation
+## Numerical Data
+Numerical data is data that is in numbers and can be used in calculations.
+
+Examples:
+- Marks: 45, 60, 78
+- Temperature: 25°C, 30°C
+- Salary: 20000, 35000
+
+Types:
+- Discrete: whole numbers (students count)
+- Continuous: decimal values (height, weight)
+
+---
+
+## Categorical Data
+Categorical data is data that shows categories or labels.
+
+Examples:
+- Gender: Male, Female
+- City: Pune, Mumbai
+- Grade: A, B, C
+
+Types:
+- Nominal: No order (colors, cities)
+- Ordinal: Ordered (ratings, grades)
+
+---
+
+## Standard Deviation
+Standard deviation shows how spread out the data is from the average.
+
+Low SD → values are close to mean  
+High SD → values are far from mean
+
+## Real-life Example
+
+Marks Set A: 50, 51, 49, 50, 50  
+Marks Set B: 20, 40, 60, 80, 100  
+
+Both can have same mean, but:
+- Set A has low standard deviation
+- Set B has high standard deviation
+
+This shows consistency vs variability.
