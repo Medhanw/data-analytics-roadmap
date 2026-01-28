@@ -13,3 +13,10 @@ Day 2:
 - Status: Completed
 - Confidence level: 9.5/10
 - Doubts: none
+
+Day 3:
+
+- Topic: Excel Basics and Data Entry
+- Status: Completed
+- Confidence level: 10/10
+- Doubts: none
