@@ -20,3 +20,9 @@ Day 3:
 - Status: Completed
 - Confidence level: 10/10
 - Doubts: none
+
+Day 4:
+- Topic: Excel Sorting, Filtering & Formatting
+- Status: Completed
+- Confidence level: 8.6/10
+- Doubts: none
