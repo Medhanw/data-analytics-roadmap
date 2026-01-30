@@ -109,3 +109,23 @@ Excel is used to:
 - Store data
 - Clean data
 - Analyze basic patterns
+
+# Day 4 – Excel Sorting, Filtering & Formatting
+
+## What I learned
+
+- Sorting arranges data in order (ascending/descending)
+- Filtering shows only selected data
+- Conditional formatting highlights important values
+
+## Why this is important
+These tools help:
+- Find top performers
+- Identify weak areas
+- Clean and analyze large datasets faster
+
+## Tasks I performed
+- Sorted marks highest to lowest
+- Filtered students by city and grade
+- Highlighted high and low marks using colors
+
