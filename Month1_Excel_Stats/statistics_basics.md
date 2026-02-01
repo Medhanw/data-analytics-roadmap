@@ -119,13 +119,33 @@ Excel is used to:
 - Conditional formatting highlights important values
 
 ## Why this is important
+
 These tools help:
+
 - Find top performers
 - Identify weak areas
 - Clean and analyze large datasets faster
 
 ## Tasks I performed
+
 - Sorted marks highest to lowest
 - Filtered students by city and grade
 - Highlighted high and low marks using colors
 
+# Day 5 – Excel IF Function and Insights
+
+## What I learned
+
+- IF function helps in decision making
+- Syntax: IF(condition, value_if_true, value_if_false)
+- Nested IF handles multiple conditions
+
+## Formulas used
+
+- =IF(B2>=60,"Pass","Fail")
+- =IF(B2>=85,"Excellent",IF(B2>=70,"Good","Needs Improvement"))
+
+## Insights from data
+
+- Students with marks below 60 need improvement
+- Conditional logic helps automate evaluation
