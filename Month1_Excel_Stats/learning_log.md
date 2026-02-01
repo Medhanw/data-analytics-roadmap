@@ -22,7 +22,15 @@ Day 3:
 - Doubts: none
 
 Day 4:
+
 - Topic: Excel Sorting, Filtering & Formatting
 - Status: Completed
 - Confidence level: 8.6/10
 - Doubts: none
+
+Day 5:
+
+- Topic: Excel IF Function and Logical Analysis
+- Status: Completed
+- Confidence level: 6.5/10
+- Doubts: I bit confusion in the formula, needs practice
