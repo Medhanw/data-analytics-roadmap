@@ -34,3 +34,17 @@ Day 5:
 - Status: Completed
 - Confidence level: 6.5/10
 - Doubts: I bit confusion in the formula, needs practice
+
+Day 6:
+
+- Topic: Excel Charts and Visualization
+- Status: Completed
+- Confidence level: 8/10
+- Doubts: none
+
+Week 1 Summary:
+
+- Learned statistics basics
+- Understood data types
+- Used Excel for analysis
+- Created formulas and charts
