@@ -149,3 +149,25 @@ These tools help:
 
 - Students with marks below 60 need improvement
 - Conditional logic helps automate evaluation
+
+# Day 6 – Excel Charts and Data Summary
+
+## Charts created
+
+- Column chart for student marks
+- Pie chart for grade distribution
+- City-wise performance chart
+
+## Why charts are important
+
+Charts help:
+
+- Understand data faster
+- Communicate insights clearly
+- Support business decisions
+
+## Insights from charts
+
+- Highest performer: Pune
+- Most common grade: B & C
+- City with better average performance: Pune is consistant, Delhi needs improvement.
