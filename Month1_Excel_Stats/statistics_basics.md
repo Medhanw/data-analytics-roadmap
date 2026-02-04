@@ -171,3 +171,42 @@ Charts help:
 - Highest performer: Pune
 - Most common grade: B & C
 - City with better average performance: Pune is consistant, Delhi needs improvement.
+
+# Week 1 Mini Project – Student Performance Analysis
+
+## Objective
+
+To analyze student performance using Excel and basic statistical concepts.
+
+## Dataset Description
+
+The dataset contains:
+
+- Student names
+- Marks
+- City
+- Grade
+
+## Tools Used
+
+- Microsoft Excel
+- Basic statistics
+- Excel formulas and charts
+
+## Analysis Performed
+
+- Calculated average, max, and min marks
+- Identified pass and fail students using IF
+- Sorted and filtered data for insights
+- Visualized data using charts
+
+## Key Insights
+
+- Top performing student(s): **\_\_**
+- Average class performance: **\_\_**
+- Majority grade: **\_\_**
+- City with better performance: **\_\_**
+
+## Conclusion
+
+Excel helps in converting raw data into meaningful insights for decision-making.
