@@ -50,6 +50,7 @@ Week 1 Summary:
 - Created formulas and charts
 
 Day 7:
+
 - Topic: Revision + Mini Project
 - Status: Completed
 - Confidence level: 10/10
@@ -58,3 +59,9 @@ Day 7:
   - Excel confidence
   - Analytical thinking
 
+Day 8:
+
+- Topic: Probability Basics
+- Status: Completed
+- Confidence level: 9/10
+- Doubts: none
