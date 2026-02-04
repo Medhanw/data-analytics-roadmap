@@ -210,3 +210,36 @@ The dataset contains:
 ## Conclusion
 
 Excel helps in converting raw data into meaningful insights for decision-making.
+
+# Day 8 - What is Probability
+
+Probability is the chance that an event will happen.
+Its value lies between 0 and 1.
+
+0 → impossible  
+1 → certain
+
+## Basic Formula
+
+Probability = Number of favorable outcomes / Total possible outcomes
+
+## Simple Examples
+
+- Tossing a coin:
+  Probability of getting Head = 1/2
+- Rolling a dice:
+  Probability of getting 3 = 1/6
+
+## Why Probability is Important in Analytics
+
+- Helps predict outcomes
+- Used in risk analysis
+- Supports decision-making in business
+
+## Business Examples
+
+- Probability that a customer will buy a product
+- Probability that a machine will fail
+- Probability that sales will increase next month
+
+Probability helps companies plan better and reduce risk.
