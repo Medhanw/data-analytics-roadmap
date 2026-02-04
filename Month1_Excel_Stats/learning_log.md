@@ -48,3 +48,13 @@ Week 1 Summary:
 - Understood data types
 - Used Excel for analysis
 - Created formulas and charts
+
+Day 7:
+- Topic: Revision + Mini Project
+- Status: Completed
+- Confidence level: 10/10
+- What improved this week:
+  - Data understanding
+  - Excel confidence
+  - Analytical thinking
+
