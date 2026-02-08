@@ -65,3 +65,10 @@ Day 8:
 - Status: Completed
 - Confidence level: 9/10
 - Doubts: none
+
+Day 9:
+
+- Topic: Conditional Probability
+- Status: Completed
+- Confidence level: 8/10
+- Doubts: none
