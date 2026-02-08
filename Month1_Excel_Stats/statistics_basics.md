@@ -243,3 +243,47 @@ Probability = Number of favorable outcomes / Total possible outcomes
 - Probability that sales will increase next month
 
 Probability helps companies plan better and reduce risk.
+
+# Day 9 – Conditional Probability
+
+## What is Conditional Probability
+
+Conditional probability is the probability of an event happening
+given that another event has already happened.
+
+It answers questions like:
+"What is the chance of A, if B is already true?"
+
+## Formula
+
+P(A | B) = P(A and B) / P(B)
+
+## Simple Examples
+
+Example 1: Cards
+If one card is drawn from a deck:
+
+- Probability that the card is a King, given it is a Face card
+
+Example 2: Weather
+
+- Probability that it will rain, given that it is cloudy
+
+## Business Examples
+
+- Probability a customer will buy, given they clicked an ad
+- Probability a loan will default, given low credit score
+- Probability a student passes, given attendance > 75%
+
+Why this matters:
+Companies rarely ask "what is the probability?"
+They ask "what is the probability IF something is already known?"
+
+## Connection to Data Analytics
+
+Conditional probability is used in:
+
+- Customer behavior analysis
+- Risk analysis
+- Machine learning models
+- A/B testing
