@@ -72,3 +72,10 @@ Day 9:
 - Status: Completed
 - Confidence level: 8/10
 - Doubts: none
+
+Day 10:
+
+- Topic: Normal Distribution
+- Status: Completed
+- Confidence level: 7.5/10
+- Doubts: none
