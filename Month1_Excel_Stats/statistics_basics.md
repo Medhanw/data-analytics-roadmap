@@ -287,3 +287,60 @@ Conditional probability is used in:
 - Risk analysis
 - Machine learning models
 - A/B testing
+
+# Day 10 - Normal Distribution
+
+## What is a Probability Distribution
+
+A probability distribution shows how values are spread across different outcomes.
+
+Instead of one value, it shows the pattern of data.
+
+## Normal Distribution
+
+Normal distribution is a symmetric, bell-shaped curve where:
+
+- Most values are near the mean
+- Fewer values are far from the mean
+
+## Key Properties
+
+- Mean = Median = Mode
+- Curve is symmetric
+- Data is evenly distributed on both sides
+
+## Role of Standard Deviation
+
+Standard deviation controls the spread of the curve.
+
+- Small SD → narrow curve (values close to mean)
+- Large SD → wide curve (values spread out)
+
+Rule of thumb:
+
+- ~68% data within ±1 SD
+- ~95% data within ±2 SD
+- ~99.7% data within ±3 SD
+
+## Real-life Examples
+
+- Heights of people
+- Exam scores
+- Measurement errors
+
+## Business & Analytics Examples
+
+- Employee performance scores
+- Product delivery times
+- Customer spending behavior
+
+Why it matters:
+Companies assume normal distribution to:
+
+- Set performance benchmarks
+- Detect outliers
+- Predict future outcomes
+
+## Reflection
+
+Understanding normal distribution helps me interpret data instead of just calculating numbers.
