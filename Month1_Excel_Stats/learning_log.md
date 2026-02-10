@@ -79,3 +79,10 @@ Day 10:
 - Status: Completed
 - Confidence level: 7.5/10
 - Doubts: none
+
+Day 11:
+- Topic: Z-Score
+- Status: Completed
+- Confidence level: 9/10
+- Doubts: none
+
