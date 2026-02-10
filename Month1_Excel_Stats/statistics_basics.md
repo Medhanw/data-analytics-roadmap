@@ -344,3 +344,36 @@ Companies assume normal distribution to:
 ## Reflection
 
 Understanding normal distribution helps me interpret data instead of just calculating numbers.
+
+# Day 11 - Z_Score
+## What is a Z-Score
+A Z-score tells how far a value is from the mean,
+measured in standard deviations.
+
+It answers:
+"How unusual is this value compared to others?"
+
+## Formula (conceptual)
+Z = (Value − Mean) / Standard Deviation
+## How to Interpret Z-Scores
+- Z = 0 → value is exactly at the mean
+- Z > 0 → value is above the mean
+- Z < 0 → value is below the mean
+
+The larger the absolute Z-score,
+the more unusual the value.
+## Real-life Examples
+- Exam score much higher than average → high positive Z-score
+- Very low salary compared to peers → negative Z-score
+- Average performance → Z-score near 0
+## Business & Analytics Applications
+- Detecting outliers in data
+- Comparing performance across groups
+- Fraud detection
+- Quality control
+
+Why it matters:
+Z-scores allow fair comparison across different datasets.
+## Reflection
+Z-scores help me judge data points objectively instead of relying on intuition.
+
