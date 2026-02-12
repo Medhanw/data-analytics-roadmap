@@ -81,8 +81,15 @@ Day 10:
 - Doubts: none
 
 Day 11:
+
 - Topic: Z-Score
 - Status: Completed
 - Confidence level: 9/10
 - Doubts: none
 
+Day 12:
+
+- Topic: Excel COUNTIF & AVERAGEIF
+- Status: Completed
+- Confidence level: 9.5/10
+- Doubts: Was easier
