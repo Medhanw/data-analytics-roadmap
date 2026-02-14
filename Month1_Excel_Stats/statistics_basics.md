@@ -408,3 +408,26 @@ Z-scores help me judge data points objectively instead of relying on intuition.
 ## Why this is important
 
 These functions help analyze subsets of data without manual filtering.
+
+# Day 13 – VLOOKUP & XLOOKUP
+
+## What is a Lookup Function?
+
+Lookup functions retrieve data from another table based on a matching value.
+
+## VLOOKUP
+
+Used to search vertically in a table.
+
+Syntax:
+=VLOOKUP(lookup_value, table_array, column_index, FALSE)
+
+## XLOOKUP
+
+Modern replacement for VLOOKUP.
+More flexible and handles errors better.
+
+## Why this is important
+
+Lookup functions combine multiple datasets.
+This is common in business reporting and analytics.
