@@ -92,4 +92,11 @@ Day 12:
 - Topic: Excel COUNTIF & AVERAGEIF
 - Status: Completed
 - Confidence level: 9.5/10
-- Doubts: Was easier
+- Doubts: Was easier, learnt earlier
+
+Day 13:
+
+- Topic: VLOOKUP & XLOOKUP
+- Status: Completed
+- Confidence level: 6/10
+- Doubts: The formulas are complex to remember.
