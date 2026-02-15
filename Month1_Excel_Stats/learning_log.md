@@ -100,3 +100,16 @@ Day 13:
 - Status: Completed
 - Confidence level: 6/10
 - Doubts: The formulas are complex to remember.
+
+Day 14:
+
+- Topic: Week 2 Mini Project
+- Status: Completed
+- Confidence level: 9/10
+
+Week 2 Summary:
+
+- Learned probability concepts
+- Applied advanced Excel functions
+- Linked datasets
+- Created visual insights
