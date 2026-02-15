@@ -200,17 +200,6 @@ The dataset contains:
 - Sorted and filtered data for insights
 - Visualized data using charts
 
-## Key Insights
-
-- Top performing student(s): **\_\_**
-- Average class performance: **\_\_**
-- Majority grade: **\_\_**
-- City with better performance: **\_\_**
-
-## Conclusion
-
-Excel helps in converting raw data into meaningful insights for decision-making.
-
 # Day 8 - What is Probability
 
 Probability is the chance that an event will happen.
@@ -431,3 +420,48 @@ More flexible and handles errors better.
 
 Lookup functions combine multiple datasets.
 This is common in business reporting and analytics.
+
+# Week 2 Mini Project – Student Performance & Scholarship Analysis
+
+## Objective
+
+To analyze student performance and scholarship distribution using Excel tools and probability concepts.
+
+## Dataset Description
+
+Contains:
+
+- Student marks
+- City
+- Grades
+- Scholarship information
+
+## Tools Used
+
+- Excel formulas
+- COUNTIF, AVERAGEIF
+- IF function
+- XLOOKUP
+- Charts
+
+## Analysis Performed
+
+- Calculated performance statistics
+- Identified pass/fail students
+- Linked scholarship data
+- Visualized grade distribution
+
+## Probability Insights
+
+- Probability of selecting Grade A student = 0.375 or 37.5%
+- Probability of selecting student from Pune = 0.375 or 37.5%
+- Probability of selecting a fail student = 0.25 or 25%
+
+## Key Findings
+
+- Top performing students: Meena
+- City with best average performance: Pune
+
+## Conclusion
+
+Combining Excel analysis and probability helps understand patterns and supports data-driven decisions.
