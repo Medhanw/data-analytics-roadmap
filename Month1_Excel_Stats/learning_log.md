@@ -113,3 +113,10 @@ Week 2 Summary:
 - Applied advanced Excel functions
 - Linked datasets
 - Created visual insights
+
+Day 15:
+
+- Topic: Python Setup and Basics
+- Status: Completed
+- Confidence level: 10/10
+- First impression of Python: basic, very familier
