@@ -39,3 +39,28 @@ Python is a programming language used for:
 ## Why this is important for analytics
 
 Python can automate calculations and handle large datasets efficiently.
+
+# Day 17 – Python IF Statements
+
+## What I learned
+
+- IF statements help make decisions in Python
+- Indentation is required
+- elif handles multiple conditions
+
+## Syntax
+
+if condition:
+action
+elif condition:
+action
+else:
+action
+
+## Why this matters in analytics
+
+IF statements automate decision-making such as:
+
+- Pass/fail classification
+- Customer segmentation
+- Performance evaluation
