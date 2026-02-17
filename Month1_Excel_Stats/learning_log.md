@@ -127,3 +127,10 @@ Day 16:
 - Status: Completed
 - Confidence level: 9.8/10
 - What became clearer today: variables
+
+Day 17:
+
+- Topic: Python IF Statements
+- Status: Completed
+- Confidence level: 9.5/10
+- What became easier today: if, elif and else became so easier.
