@@ -120,3 +120,10 @@ Day 15:
 - Status: Completed
 - Confidence level: 10/10
 - First impression of Python: basic, very familier
+
+Day 16:
+
+- Topic: Variables, Input & Operations
+- Status: Completed
+- Confidence level: 9.8/10
+- What became clearer today: variables
