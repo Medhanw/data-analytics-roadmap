@@ -64,3 +64,27 @@ IF statements automate decision-making such as:
 - Pass/fail classification
 - Customer segmentation
 - Performance evaluation
+
+# Day 18 – Python Loops
+
+## Why loops are needed
+
+Loops automate repetitive tasks and reduce manual coding.
+
+## Types of loops
+
+1. For loop – used when number of repetitions is known
+2. While loop – used when condition controls repetition
+
+## Syntax Example
+
+for i in range(5):
+print(i)
+
+## Why loops matter in analytics
+
+Loops help:
+
+- Process large datasets
+- Perform repeated calculations
+- Automate data cleaning tasks
