@@ -134,3 +134,10 @@ Day 17:
 - Status: Completed
 - Confidence level: 9.5/10
 - What became easier today: if, elif and else became so easier.
+
+Day 18:
+
+- Topic: Python Loops
+- Status: Completed
+- Confidence level: 8.5/10
+- What became easier today: revosed for and while loop
