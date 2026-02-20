@@ -141,3 +141,11 @@ Day 18:
 - Status: Completed
 - Confidence level: 8.5/10
 - What became easier today: revosed for and while loop
+
+Day 19:
+- Topic: Python Lists
+- Status: Completed
+- Confidence level: 9/10
+- What became easier today: lists
+
+
