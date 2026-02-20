@@ -88,3 +88,26 @@ Loops help:
 - Process large datasets
 - Perform repeated calculations
 - Automate data cleaning tasks
+
+# Day 19 – Python Lists
+
+## What is a list
+
+A list is a collection of multiple values stored in one variable.
+
+## Key features
+
+- Ordered collection
+- Allows duplicates
+- Can store different data types
+
+## Common operations
+
+- append() → add element
+- remove() → delete element
+- len() → count elements
+- sum(), max(), min()
+
+## Why lists are important in analytics
+
+Lists help store and process datasets efficiently.
