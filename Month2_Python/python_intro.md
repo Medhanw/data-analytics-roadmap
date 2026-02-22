@@ -111,3 +111,27 @@ A list is a collection of multiple values stored in one variable.
 ## Why lists are important in analytics
 
 Lists help store and process datasets efficiently.
+
+# Day 20 – Python Dictionaries
+
+## What is a dictionary
+
+A dictionary stores data in key–value pairs.
+
+Example:
+name → Medha
+marks → 85
+
+## Features
+
+- Keys are unique
+- Values can be any data type
+- Useful for structured data
+
+## Why dictionaries matter in analytics
+
+They help represent:
+
+- Rows of a dataset
+- JSON data
+- Database records
