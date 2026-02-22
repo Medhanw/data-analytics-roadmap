@@ -143,9 +143,15 @@ Day 18:
 - What became easier today: revosed for and while loop
 
 Day 19:
+
 - Topic: Python Lists
 - Status: Completed
 - Confidence level: 9/10
 - What became easier today: lists
 
+Day 20:
 
+- Topic: Python Dictionaries
+- Status: Completed
+- Confidence level: 8.5/10
+- What became clearer today: dictionaries were easier, had worked earlier with it
