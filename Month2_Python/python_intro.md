@@ -135,3 +135,33 @@ They help represent:
 - Rows of a dataset
 - JSON data
 - Database records
+
+# Week 3 Mini Project – Student Marks Analysis using Python
+
+## Objective
+To analyze student marks using Python data structures and programming logic.
+
+## Dataset Description
+Contains:
+- Student names
+- Marks
+
+## Tools Used
+- Python lists
+- Dictionaries
+- Loops
+- IF statements
+
+## Analysis Performed
+- Calculated average marks
+- Identified highest scorer
+- Classified pass and fail students
+- Assigned grades based on performance
+
+## Key Insights
+- Average class performance: ___
+- Top performer: ___
+- Number of passing students: ___
+
+## Conclusion
+Python can automate data analysis tasks and handle datasets efficiently.
