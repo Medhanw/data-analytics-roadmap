@@ -157,12 +157,21 @@ Day 20:
 - What became clearer today: dictionaries were easier, had worked earlier with it
 
 Day 21:
+
 - Topic: Week 3 Mini Project
 - Status: Completed
 - Confidence level: 9/10
 
 Week 3 Summary:
+
 - Learned Python basics
 - Used conditions and loops
 - Worked with lists and dictionaries
 - Performed basic data analysis
+
+Day 22:
+
+- Topic: NumPy Introduction
+- Status: Completed
+- Confidence level: 9.7/10
+- What felt different from normal Python: Revised about numpy and arrays in numpy.
