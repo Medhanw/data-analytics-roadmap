@@ -139,29 +139,58 @@ They help represent:
 # Week 3 Mini Project – Student Marks Analysis using Python
 
 ## Objective
+
 To analyze student marks using Python data structures and programming logic.
 
 ## Dataset Description
+
 Contains:
+
 - Student names
 - Marks
 
 ## Tools Used
+
 - Python lists
 - Dictionaries
 - Loops
 - IF statements
 
 ## Analysis Performed
+
 - Calculated average marks
 - Identified highest scorer
 - Classified pass and fail students
 - Assigned grades based on performance
 
 ## Key Insights
-- Average class performance: ___
-- Top performer: ___
-- Number of passing students: ___
+
+- Average class performance: \_\_\_
+- Top performer: \_\_\_
+- Number of passing students: \_\_\_
 
 ## Conclusion
+
 Python can automate data analysis tasks and handle datasets efficiently.
+
+# Day 22 – Introduction to NumPy
+
+## What is NumPy?
+
+NumPy is a Python library for numerical computing.
+
+## Why NumPy is important
+
+- Handles arrays efficiently
+- Performs fast mathematical operations
+- Foundation for Pandas and Machine Learning
+
+## Key Concepts Learned
+
+- Creating arrays using np.array()
+- Using functions like mean(), max(), min()
+- Performing vectorized operations
+
+## Difference from Python Lists
+
+NumPy arrays allow faster and cleaner numerical computation.
