@@ -194,3 +194,21 @@ NumPy is a Python library for numerical computing.
 ## Difference from Python Lists
 
 NumPy arrays allow faster and cleaner numerical computation.
+
+# Day 23 – NumPy 2D Arrays and Indexing
+
+## What is a 2D array?
+
+A 2D array represents data in rows and columns (table format).
+
+## Key Concepts
+
+- data[row, column]
+- data[:, column] → entire column
+- axis=0 → column-wise operation
+- axis=1 → row-wise operation
+
+## Why this matters in analytics
+
+Most real datasets are tabular.
+2D arrays help perform fast statistical analysis.
