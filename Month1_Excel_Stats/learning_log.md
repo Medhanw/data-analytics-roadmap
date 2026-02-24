@@ -175,3 +175,10 @@ Day 22:
 - Status: Completed
 - Confidence level: 9.7/10
 - What felt different from normal Python: Revised about numpy and arrays in numpy.
+
+Day 23:
+
+- Topic: NumPy 2D Arrays
+- Status: Completed
+- Confidence level: /10
+- What became clearer today: same as previous data just practicin with a metrics example
