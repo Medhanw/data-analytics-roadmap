@@ -181,4 +181,11 @@ Day 23:
 - Topic: NumPy 2D Arrays
 - Status: Completed
 - Confidence level: /10
-- What became clearer today: same as previous data just practicin with a metrics example
+- What became clearer today: same as previous data just practicing with a metrics example
+
+Day 24:
+
+- Topic: Pandas Introduction
+- Status: Completed
+- Confidence level: 7.8/10
+- First impression of Pandas: Pandas are good for real world analytics and machine learning.
