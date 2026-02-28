@@ -212,3 +212,27 @@ A 2D array represents data in rows and columns (table format).
 
 Most real datasets are tabular.
 2D arrays help perform fast statistical analysis.
+
+# Day 24 – Introduction to Pandas
+
+## What is Pandas?
+
+Pandas is a Python library used to work with structured data in table format.
+
+## Key Concept: DataFrame
+
+A DataFrame is a table with rows and columns.
+
+## Operations Learned
+
+- Creating DataFrame
+- head(), info(), describe()
+- Column selection
+- Filtering rows
+- Aggregation (mean, max, value_counts)
+
+## Why Pandas is Important
+
+- Handles real-world datasets
+- Used in almost every data analytics job
+- Replaces Excel for large datasets
