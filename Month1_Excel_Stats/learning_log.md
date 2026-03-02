@@ -189,3 +189,10 @@ Day 24:
 - Status: Completed
 - Confidence level: 7.8/10
 - First impression of Pandas: Pandas are good for real world analytics and machine learning.
+
+Day 25:
+
+- Topic: Pandas Data Cleaning
+- Status: Completed
+- Confidence level: 7.7/10
+- What felt most practical today: The df function were a bit tricky today.
