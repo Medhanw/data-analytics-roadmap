@@ -236,3 +236,25 @@ A DataFrame is a table with rows and columns.
 - Handles real-world datasets
 - Used in almost every data analytics job
 - Replaces Excel for large datasets
+
+# Day 25 – Data Cleaning with Pandas
+
+## Why data cleaning is important
+
+Real-world data is messy and incomplete.
+
+## Techniques learned
+
+- Detect missing values using isnull()
+- Count missing values using sum()
+- Remove rows using dropna()
+- Fill missing values using fillna()
+- Remove duplicates using drop_duplicates()
+
+## Why this matters
+
+Data cleaning ensures:
+
+- Accurate analysis
+- Reliable results
+- Better decision-making
