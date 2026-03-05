@@ -196,3 +196,10 @@ Day 25:
 - Status: Completed
 - Confidence level: 7.7/10
 - What felt most practical today: The df function were a bit tricky today.
+
+Day 26:
+
+- Topic: Pandas GroupBy and Aggregation
+- Status: Completed
+- Confidence level: /10
+- What insights I generated today:
