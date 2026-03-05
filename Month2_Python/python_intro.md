@@ -258,3 +258,24 @@ Data cleaning ensures:
 - Accurate analysis
 - Reliable results
 - Better decision-making
+
+# Day 26 – Pandas GroupBy and Aggregation
+
+## What is GroupBy
+
+GroupBy splits data into groups based on a column.
+
+Example:
+Group students by city.
+
+## Aggregation Functions
+
+- mean() → average
+- sum() → total
+- count() → number of records
+- max() → highest value
+- min() → lowest value
+
+## Why GroupBy is important
+
+It helps analysts summarize large datasets and generate insights.
