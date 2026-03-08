@@ -201,5 +201,12 @@ Day 26:
 
 - Topic: Pandas GroupBy and Aggregation
 - Status: Completed
-- Confidence level: /10
-- What insights I generated today:
+- Confidence level: 7.3/10
+- What insights I generated today: Pandas GroupBy and Aggregation
+
+Day 27:
+
+- Topic: Data Visualization using Matplotlib
+- Status: Completed
+- Confidence level: 8.9/10
+- Which chart felt most intuitive: Intro to data visualization.
