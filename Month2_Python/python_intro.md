@@ -279,3 +279,20 @@ Group students by city.
 ## Why GroupBy is important
 
 It helps analysts summarize large datasets and generate insights.
+
+# Day 27 – Data Visualization with Matplotlib
+
+## What is Matplotlib
+
+Matplotlib is a Python library used to create data visualizations.
+
+## Charts Learned
+
+- Line chart
+- Bar chart
+- Horizontal bar chart
+- Pie chart
+
+## Why visualization is important
+
+Charts make data easier to understand and help communicate insights to stakeholders.
