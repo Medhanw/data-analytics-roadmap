@@ -296,3 +296,20 @@ Matplotlib is a Python library used to create data visualizations.
 ## Why visualization is important
 
 Charts make data easier to understand and help communicate insights to stakeholders.
+
+# Day 28 – Seaborn Visualization
+
+## What is Seaborn
+
+Seaborn is a Python library for creating statistical data visualizations.
+
+## Charts Learned
+
+- Bar plot
+- Count plot
+- Box plot
+- Histogram
+
+## Why Seaborn is useful
+
+Seaborn produces cleaner and more informative visualizations compared to basic plotting libraries.
