@@ -210,3 +210,10 @@ Day 27:
 - Status: Completed
 - Confidence level: 8.9/10
 - Which chart felt most intuitive: Intro to data visualization.
+
+Day 28:
+
+- Topic: Seaborn Visualization
+- Status: Completed
+- Confidence level: 9/10
+- Which chart was most informative: Barplot and countplot
