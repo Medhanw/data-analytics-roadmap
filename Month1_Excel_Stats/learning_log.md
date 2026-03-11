@@ -217,3 +217,16 @@ Day 28:
 - Status: Completed
 - Confidence level: 9/10
 - Which chart was most informative: Barplot and countplot
+
+Day 29:
+
+- Topic: Week 4 Mini Project
+- Status: Completed
+- Confidence level: 9.5/10
+
+Week 4 Summary:
+
+- Learned NumPy basics
+- Used Pandas for data analysis
+- Performed data cleaning
+- Created visualizations using Seaborn
