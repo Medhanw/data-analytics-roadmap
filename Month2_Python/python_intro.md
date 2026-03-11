@@ -313,3 +313,36 @@ Seaborn is a Python library for creating statistical data visualizations.
 ## Why Seaborn is useful
 
 Seaborn produces cleaner and more informative visualizations compared to basic plotting libraries.
+
+# Week 4 Mini Project – Student Performance Analysis
+
+## Objective
+
+To analyze student performance using Python data analysis libraries.
+
+## Tools Used
+
+- Pandas
+- Seaborn
+- Matplotlib
+
+## Dataset Description
+
+The dataset contains student names, cities, and marks.
+
+## Analysis Performed
+
+- Data exploration
+- Statistical summary
+- GroupBy analysis by city
+- Visualization of marks distribution
+
+## Key Insights
+
+- City with highest average marks: \_\_\_
+- Average class marks: \_\_\_
+- Lowest performer: \_\_\_
+
+## Conclusion
+
+Python provides powerful tools for analyzing and visualizing structured datasets efficiently.
