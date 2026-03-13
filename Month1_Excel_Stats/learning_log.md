@@ -230,3 +230,10 @@ Week 4 Summary:
 - Used Pandas for data analysis
 - Performed data cleaning
 - Created visualizations using Seaborn
+
+Day 30:
+
+- Topic: SQL Introduction
+- Status: Completed
+- Confidence level: /10
+- First impression of SQL:
