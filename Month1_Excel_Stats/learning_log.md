@@ -235,5 +235,12 @@ Day 30:
 
 - Topic: SQL Introduction
 - Status: Completed
-- Confidence level: /10
-- First impression of SQL:
+- Confidence level: 7.5/10
+- First impression of SQL: Clear understanding
+
+Day 31:
+
+- Topic: SQL Filtering (WHERE, AND, OR, BETWEEN)
+- Status: Completed
+- Confidence level: 7.5/10
+- What became clearer today: Practiced SQL filtering using WHERE and logical operators
