@@ -346,3 +346,28 @@ The dataset contains student names, cities, and marks.
 ## Conclusion
 
 Python provides powerful tools for analyzing and visualizing structured datasets efficiently.
+
+# Day 31 – SQL Filtering
+
+## WHERE Clause
+
+The WHERE clause filters rows based on conditions.
+
+Example:
+SELECT Name FROM students WHERE Marks > 70;
+
+## Logical Operators
+
+AND → both conditions must be true  
+OR → at least one condition must be true
+
+## Range Filtering
+
+BETWEEN is used to select values within a range.
+
+Example:
+SELECT Name FROM students WHERE Marks BETWEEN 60 AND 80;
+
+## Importance in Analytics
+
+Filtering allows analysts to extract relevant data for analysis.
