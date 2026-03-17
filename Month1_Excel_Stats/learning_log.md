@@ -244,3 +244,9 @@ Day 31:
 - Status: Completed
 - Confidence level: 7.5/10
 - What became clearer today: Practiced SQL filtering using WHERE and logical operators
+
+Day 32:
+- Topic: SQL Aggregation
+- Status: Completed
+- Confidence level: 8.9/10
+- Key insight from today: Average, Max, Min, count, Sum using Group By and order by.
