@@ -74,3 +74,29 @@ Used to sort results.
 ## Importance in Analytics
 
 Aggregation helps summarize large datasets and generate insights.
+
+# Day 33 – SQL JOINS
+
+## Why JOINS are needed
+
+Data is often stored in multiple tables.
+JOINS combine data from different tables.
+
+## INNER JOIN
+
+Returns only matching rows from both tables.
+
+## LEFT JOIN
+
+Returns all rows from left table and matching rows from right table.
+
+## Syntax
+
+SELECT columns
+FROM table1
+JOIN table2
+ON table1.column = table2.column;
+
+## Importance in Analytics
+
+JOINS allow analysts to combine datasets and generate deeper insights.
