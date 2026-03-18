@@ -30,7 +30,47 @@ SELECT name, marks
 FROM students
 WHERE marks BETWEEN 40 and 60;
 
+SELECT AVG(marks)
+from students;
+
+SELECT MAX(marks)
+from students;
+
+SELECT city, COUNT(*)
+FROM students
+GROUP BY city;
+
+SELECT city, AVG(marks)
+FROM students
+GROUP BY city
+ORDER BY AVG(marks) desc;
 
 
 
 
+CREATE TABLE scholarships (
+    student_id INT,
+    scholarship int
+);
+
+INSERT INTO scholarships VALUES
+(1, 5000),
+(2, 7000),
+(3, 9000),
+(4, 3000);
+
+SELECT students.name, scholarships.scholarship
+FROM students
+INNER JOIN scholarships
+ON students.id = scholarships.student_id;
+
+SELECT students.name, scholarships.scholarship
+FROM students
+LEFT JOIN scholarships
+ON students.id = scholarships.student_id;
+
+SELECT students.name, students.marks, scholarships.scholarship
+FROM students
+LEFT JOIN scholarships
+ON students.id = scholarships.student_id
+WHERE students.marks > 60;
