@@ -74,3 +74,27 @@ FROM students
 LEFT JOIN scholarships
 ON students.id = scholarships.student_id
 WHERE students.marks > 60;
+
+SELECT name, marks
+FROM students
+WHERE marks > (SELECT AVG(marks) FROM students);
+
+SELECT name, marks
+FROM students
+WHERE marks = (SELECT MAX(marks) FROM students);
+
+SELECT name, city
+FROM students
+WHERE city = (
+    SELECT city
+    FROM students
+    WHERE marks = (SELECT MAX(marks) FROM students)
+);
+
+SELECT name
+FROM students
+WHERE id IN (
+    SELECT student_id FROM scholarships
+);
+
+
