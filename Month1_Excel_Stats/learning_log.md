@@ -258,3 +258,10 @@ Day 33:
 - Status: Completed
 - Confidence level: 8.6/10
 - What felt difficult: None
+
+Day 34:
+
+- Topic: SQL Subqueries
+- Status: Completed
+- Confidence level: 8.5/10
+- What felt challenging: the subqueries were a bit tricky
