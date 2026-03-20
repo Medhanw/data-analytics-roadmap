@@ -100,3 +100,23 @@ ON table1.column = table2.column;
 ## Importance in Analytics
 
 JOINS allow analysts to combine datasets and generate deeper insights.
+
+# Day 34 – SQL Subqueries
+
+## What is a Subquery
+
+A subquery is a query inside another query.
+
+## Use Cases
+
+- Compare with average values
+- Find top or bottom records
+- Filter based on another query
+
+## Examples
+
+SELECT name FROM students WHERE marks > (SELECT AVG(marks) FROM students);
+
+## Importance in Analytics
+
+Subqueries help solve complex data problems and enable deeper analysis.
