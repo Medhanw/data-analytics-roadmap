@@ -97,4 +97,40 @@ WHERE id IN (
     SELECT student_id FROM scholarships
 );
 
+SELECT * FROM students;
 
+SELECT AVG(marks) as average_marks
+FROM students;
+
+SELECT name, marks
+FROM students
+WHERE marks = (SELECT MAX(marks) FROM students);
+
+SELECT name, marks
+FROM students
+WHERE marks > (SELECT AVG(marks) FROM students);
+
+SELECT city, COUNT(*) AS total_students
+FROM students
+GROUP BY city;
+
+SELECT city, AVG(marks) AS avg_marks
+FROM students
+GROUP BY city;
+
+SELECT s.name, s.marks, sc.scholarship
+FROM students s
+LEFT JOIN scholarships sc
+ON s.id = sc.student_id;
+
+SELECT s.name, s.marks, sc.scholarship
+FROM students s
+INNER JOIN scholarships sc
+ON s.id = sc.student_id
+WHERE s.marks > 70;
+
+SELECT city, AVG(marks) AS average_marks
+FROM students
+GROUP BY city
+ORDER BY average_marks DESC
+LIMIT 1;
