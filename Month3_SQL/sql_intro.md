@@ -120,3 +120,38 @@ SELECT name FROM students WHERE marks > (SELECT AVG(marks) FROM students);
 ## Importance in Analytics
 
 Subqueries help solve complex data problems and enable deeper analysis.
+
+# Week 5 Mini Project – Student Performance & Scholarship Analysis
+
+## Objective
+
+To analyze student performance and scholarship distribution using SQL queries.
+
+## Tools Used
+
+- MySQL Workbench
+- SQL
+
+## Tables Used
+
+- students
+- scholarships
+
+## Analysis Performed
+
+- Calculated average marks
+- Identified top performers
+- Analyzed city-wise performance
+- Combined data using JOIN
+- Used subqueries for advanced filtering
+
+## Key Insights
+
+- Top student: \_\_\_
+- City with best performance: \_\_\_
+- Students above average: \_\_\_
+- Scholarship distribution trend: \_\_\_
+
+## Conclusion
+
+SQL enables efficient querying and analysis of structured data for business insights.
