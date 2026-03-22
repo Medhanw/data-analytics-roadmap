@@ -265,3 +265,14 @@ Day 34:
 - Status: Completed
 - Confidence level: 8.5/10
 - What felt challenging: the subqueries were a bit tricky
+
+Day 35:
+- Topic: SQL Mini Project
+- Status: Completed
+- Confidence level: /10
+
+Week 5 Summary:
+- Learned SQL basics
+- Practiced filtering and aggregation
+- Used joins and subqueries
+- Completed a real analytics project
