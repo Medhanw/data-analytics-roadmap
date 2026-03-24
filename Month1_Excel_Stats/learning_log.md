@@ -269,10 +269,16 @@ Day 34:
 Day 35:
 - Topic: SQL Mini Project
 - Status: Completed
-- Confidence level: /10
+- Confidence level: 8.9/10
 
 Week 5 Summary:
 - Learned SQL basics
 - Practiced filtering and aggregation
 - Used joins and subqueries
 - Completed a real analytics project
+
+Day 36:
+- Topic: Power BI Introduction
+- Status: Completed
+- Confidence level: 10/10
+- First impression of Power BI: Learnt this earlier. 
