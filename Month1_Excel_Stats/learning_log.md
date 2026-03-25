@@ -267,18 +267,28 @@ Day 34:
 - What felt challenging: the subqueries were a bit tricky
 
 Day 35:
+
 - Topic: SQL Mini Project
 - Status: Completed
 - Confidence level: 8.9/10
 
 Week 5 Summary:
+
 - Learned SQL basics
 - Practiced filtering and aggregation
 - Used joins and subqueries
 - Completed a real analytics project
 
 Day 36:
+
 - Topic: Power BI Introduction
 - Status: Completed
 - Confidence level: 10/10
-- First impression of Power BI: Learnt this earlier. 
+- First impression of Power BI: Learnt this earlier.
+
+Day 37:
+
+- Topic: Power BI Data Cleaning
+- Status: Completed
+- Confidence level: 9.8/10
+- What felt similar to Pandas: Performed data cleaning using Power Query in Power BI
