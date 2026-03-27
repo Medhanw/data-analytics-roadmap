@@ -31,3 +31,20 @@ Power Query is used to clean and transform data before analysis.
 ## Why data cleaning is important
 
 Clean data ensures accurate analysis and reliable dashboards.
+
+# Day 38 – Power BI Dashboard Design
+
+## What I created
+- Bar chart for student performance
+- City-wise analysis chart
+- Pie chart for distribution
+- KPI card for average marks
+- Slicer for filtering
+
+## Key Concepts
+- Dashboard layout design
+- Data storytelling
+- Interactive filtering
+
+## Why dashboards are important
+Dashboards help decision-makers quickly understand data and take action.
