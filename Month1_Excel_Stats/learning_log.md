@@ -292,3 +292,10 @@ Day 37:
 - Status: Completed
 - Confidence level: 9.8/10
 - What felt similar to Pandas: Performed data cleaning using Power Query in Power BI
+
+Day 38:
+
+- Topic: Power BI Dashboard
+- Status: Completed
+- Confidence level: 9.5/10
+- Best insight from dashboard: Te slicer insit was ood to apply filters once.
