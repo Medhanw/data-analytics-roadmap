@@ -299,3 +299,16 @@ Day 38:
 - Status: Completed
 - Confidence level: 9.5/10
 - Best insight from dashboard: Te slicer insit was ood to apply filters once.
+
+Day 39:
+
+- Topic: Power BI Mini Project
+- Status: Completed
+- Confidence level: 9.4/10
+
+Week 6 Summary:
+
+- Learned Power BI basics
+- Performed data cleaning
+- Built dashboards
+- Created interactive reports
