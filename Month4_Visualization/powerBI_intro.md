@@ -35,6 +35,7 @@ Clean data ensures accurate analysis and reliable dashboards.
 # Day 38 – Power BI Dashboard Design
 
 ## What I created
+
 - Bar chart for student performance
 - City-wise analysis chart
 - Pie chart for distribution
@@ -42,9 +43,40 @@ Clean data ensures accurate analysis and reliable dashboards.
 - Slicer for filtering
 
 ## Key Concepts
+
 - Dashboard layout design
 - Data storytelling
 - Interactive filtering
 
 ## Why dashboards are important
+
 Dashboards help decision-makers quickly understand data and take action.
+
+# Week 6 Mini Project – Student Performance Dashboard
+
+## Objective
+
+To analyze and visualize student performance using Power BI.
+
+## Tools Used
+
+- Power BI
+- Excel dataset
+
+## Dashboard Features
+
+- Performance comparison chart
+- City-wise analysis
+- KPI indicators
+- Attendance vs marks relationship
+- Interactive slicers
+
+## Key Insights
+
+- City with best performance: Pune
+- Average marks: 68.125
+- Relationship between attendance and marks: As Attendance increases mark alo increases
+
+## Conclusion
+
+Power BI enables interactive dashboards that help in effective decision-making.
